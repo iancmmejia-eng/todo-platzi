@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iancmmejia-eng/todo-platzi/static/css/main.771571f7.css",
+    "main.js": "/iancmmejia-eng/todo-platzi/static/js/main.7d6d06a2.js",
+    "index.html": "/iancmmejia-eng/todo-platzi/index.html",
+    "main.771571f7.css.map": "/iancmmejia-eng/todo-platzi/static/css/main.771571f7.css.map",
+    "main.7d6d06a2.js.map": "/iancmmejia-eng/todo-platzi/static/js/main.7d6d06a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.771571f7.css",
+    "static/js/main.7d6d06a2.js"
+  ]
+}
